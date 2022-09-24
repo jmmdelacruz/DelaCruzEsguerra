@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>HYBE Boy Group Guidebook</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+  
+<body>
+
+  <div class="hybeintro">
+    
+    <h3> WHO IS HYBE? </h3>
+    <img src="HYBE PICS/hybebuilding.jpg" alt="HYBE Logo" width="320px" height="180px">
+
+    <p> HYBE Corporation, previously known as BigHit Corporation, is one of the biggest K-Pop producing companies.
+    </p>
+    <p>
+      “We believe in music” HYBE, a company based on music, strives for the world’s premiere entertainment lifestyle platform. HYBE has two values: “Content” and “Fans”. HYBE creates “content” that becomes the stars of global trends which gains “fans” that adore and follow the content. HYBE is determined to satisfy the fans, the customers, by always implementing the best services with the highest standards.
+    </p>
+  </div>
+
+  <p> References <br>
+  Hybe. HYBE. (n.d.). https://hybecorp.com/eng/company/info 
+  </p>
+</body>
+
+</html>
