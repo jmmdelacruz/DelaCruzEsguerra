@@ -1,0 +1,57 @@
+html, body {
+  background-color:  #f1f1f1;
+  margin: 0;
+  padding: 0;
+}
+
+.hybeintro,.hybesubs {
+  font-family:'Noto Sans KR','Big Hit 201110', sans-serif;
+  font: 'Big Hit 201110';
+  font-size: 14px;
+  text-align: center;
+}  
+
+#Hybelogo {
+  background-image: url('HYBE\ PICS/HYBElogo.jpg');
+  position: absolute;
+    right:0;
+    top:0;
+}
+
+.hybesubcontainer {
+  position: relative;
+  width: 50%;
+}
+
+.hybesubimage {
+  display: block;
+  width: 400px;
+  height: auto;
+}
+
+.hybesuboverlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: black;
+}
+
+.hybesubcontainer:hover .hybesuboverlay {
+  opacity: 1;
+}
+
+.hybesubtext {
+  color: white;
+  font-size: 14px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
