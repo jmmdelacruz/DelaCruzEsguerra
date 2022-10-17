@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>BTS</title>
+  <link rel="icon" type="icon" href="/images/HYBE PICS/favicon.ico">
+  <link href="css/btsstyle.css" rel="stylesheet" type="text/css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400&family=Orbitron:wght@800&display=swap"
+    rel="stylesheet">
+  <link rel="home.html" rel="pingback" type="text/css">
+</head>
+
+<body>
+  </div>
+  <div id="header" class="fade-in">
+    <img id="btslogo" src="images/BTS PICS/BTS_Logo.png" alt="BTS Logo">
+    <p>HYBE Boy Group Guidebook</p>
+  </div>
+  <div id="navbar" class="fade-in">
+    <div id="buttons">
+      <a href="https://cs3project.nia-angelaangel.repl.co/home.html">HOME</a>
+      <a href="https://cs3project.nia-angelaangel.repl.co/bts.html>BTS</a>
+      <a href="javascript:void(0)">TXT</a>
+      <a href="javascript:void(0)">ENHYPEN</a>
+      <a href="javascript:void(0)">SEVENTEEN</a>
+    </div>
+  </div>
+
+
+</body>
+
+</html>
+<div class="fade-in">
+
+  <div class="container1">
+    <div class="header1">
+      <h3> WHAT IS BTS? </h3>
+      <hr> 
+    </div>
+
+    
+    
+    <div class="btsintro">
+      <img id="btsimage" class="zoom" src="images/BTS PICS/BTS_group.webp" alt="BTS" href="https://ibighit.com/bts/eng/profile/"/>
+      
+      <br>
+      <p class="btsintrotext" margin-top="20px"> 	BTS, an acronym of Bangtan Sonyeondan or “Beyond the Scene,” is a Grammy-nominated South Korean group that has been capturing the hearts of millions of fans through their exceptional music and heart-touching lyrics since its debut in June 13, 2013.
+      </p>
+
+      <P>
+        BTS advocates their "Love Yourself" campaign in order for youth to live their <span style="color:#fbd0d0 ;font-weight:bold"><a href="https://ibighit.com/bts/eng/discography/detail/hwayangyeonhwa-pt1.html" text-decoration="none">Most Beautiful Moment In Life</a></span>
+      </p>
+      <br><br><br><br><br>
+    </div>
+  </div>
+
+  <div class="container4">
+    <p> References <br>
+      The most beautiful moment in life pt.1: BTS: Big hit entertainment. Artists. (n.d.). Retrieved October 17, 2022, from https://ibighit.com/bts/eng/discography/detail/hwayangyeonhwa-pt1.html <br>
+Profile: BTS: Bighit Music. Artists. (n.d.). Retrieved October 17, 2022, from https://ibighit.com/bts/eng/profile/ 
+    </p>
+  </div>
+
+</div>
